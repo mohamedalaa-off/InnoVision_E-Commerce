@@ -1,0 +1,20 @@
+﻿@model IEnumerable<InnoVision.V0.Models.Product>
+
+<h2>Product List</h2>
+<div class="row">
+    @foreach (var item in Model)        
+    {
+        <div class="col-md-4 mb-4">
+            <div class="card">
+                <img src="@item.imageurl" class="card-img-top" alt="@item.name" />
+                <div class="card-body">
+                    <h5 class="card-title">@item.name</h5>
+                    <p class="card-text">@item.description</p>
+                    <p class="card-text"><strong>Price:</strong> $@item.price</p>
+                    <p class="card-text"><strong>Store:</strong> @item.Store.name</p>
+                    <a href="@item.buylink" class="btn btn-primary" target="_blank">Buy Now</a>
+                </div>
+            </div>
+        </div>
+    }
+</div>
