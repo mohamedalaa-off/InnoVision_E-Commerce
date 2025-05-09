@@ -1,0 +1,58 @@
+# ------------------------------
+# Visual Studio
+# ------------------------------
+.vs/
+*.user
+*.suo
+
+# ------------------------------
+# Build results
+# ------------------------------
+bin/
+obj/
+out/
+
+# ------------------------------
+# ASP.NET Core secrets
+# ------------------------------
+**/appsettings.Development.json
+**/appsettings.Local.json
+secrets.json
+
+# ------------------------------
+# NuGet Packages
+# ------------------------------
+*.nupkg
+*.snupkg
+packages/
+project.lock.json
+project.fragment.lock.json
+
+# ------------------------------
+# SQL Server database files
+# ------------------------------
+*.mdf
+*.ldf
+*.ndf
+
+# ------------------------------
+# Logs
+# ------------------------------
+*.log
+
+# ------------------------------
+# Others
+# ------------------------------
+*.db
+*.sqlite
+*.bak
+*.tmp
+*.swp
+*.swo
+*.orig
+
+# Ignore user-generated files like screenshots or local backups
+screenshots/
+*.zip
+*.rar
+*.7z
