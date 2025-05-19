@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eYgfHYgqRfk=",
+  "dgSpecHash": "hSd7QelX2e4=",
   "success": true,
-  "projectFilePath": "E:\\Projects With VS\\InnoVision.V0\\InnoVision.V0.csproj",
+  "projectFilePath": "C:\\Users\\sison\\source\\repos\\mohamedalaa-off\\InnoVision_E-Commerce\\InnoVision.V0\\InnoVision.V0.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sison\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\sison\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

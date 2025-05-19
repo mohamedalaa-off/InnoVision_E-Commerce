@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Projects With VS\\InnoVision.V0\\InnoVision.V0.csproj": {}
+    "C:\\Users\\sison\\source\\repos\\mohamedalaa-off\\InnoVision_E-Commerce\\InnoVision.V0\\InnoVision.V0.csproj": {}
   },
   "projects": {
-    "E:\\Projects With VS\\InnoVision.V0\\InnoVision.V0.csproj": {
+    "C:\\Users\\sison\\source\\repos\\mohamedalaa-off\\InnoVision_E-Commerce\\InnoVision.V0\\InnoVision.V0.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Projects With VS\\InnoVision.V0\\InnoVision.V0.csproj",
+        "projectUniqueName": "C:\\Users\\sison\\source\\repos\\mohamedalaa-off\\InnoVision_E-Commerce\\InnoVision.V0\\InnoVision.V0.csproj",
         "projectName": "InnoVision.V0",
-        "projectPath": "E:\\Projects With VS\\InnoVision.V0\\InnoVision.V0.csproj",
+        "projectPath": "C:\\Users\\sison\\source\\repos\\mohamedalaa-off\\InnoVision_E-Commerce\\InnoVision.V0\\InnoVision.V0.csproj",
         "packagesPath": "C:\\Users\\sison\\.nuget\\packages\\",
-        "outputPath": "E:\\Projects With VS\\InnoVision.V0\\obj\\",
+        "outputPath": "C:\\Users\\sison\\source\\repos\\mohamedalaa-off\\InnoVision_E-Commerce\\InnoVision.V0\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -44,7 +44,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net9.0": {
@@ -82,7 +82,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

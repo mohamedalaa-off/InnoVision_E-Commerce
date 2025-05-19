@@ -1,46 +1,74 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Projects With VS\\InnoVision.V0\\",
+  "WorkspaceRootPath": "C:\\Users\\sison\\source\\repos\\mohamedalaa-off\\InnoVision_E-Commerce\\InnoVision.V0\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{64AEFCD8-260C-41B1-B7E6-9D38F78B7A0D}|InnoVision.V0.csproj|e:\\projects with vs\\innovision.v0\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{64AEFCD8-260C-41B1-B7E6-9D38F78B7A0D}|InnoVision.V0.csproj|c:\\users\\sison\\source\\repos\\mohamedalaa-off\\innovision_e-commerce\\innovision.v0\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{64AEFCD8-260C-41B1-B7E6-9D38F78B7A0D}|InnoVision.V0.csproj|solutionrelative:views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{64AEFCD8-260C-41B1-B7E6-9D38F78B7A0D}|InnoVision.V0.csproj|e:\\projects with vs\\innovision.v0\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{64AEFCD8-260C-41B1-B7E6-9D38F78B7A0D}|InnoVision.V0.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{64AEFCD8-260C-41B1-B7E6-9D38F78B7A0D}|InnoVision.V0.csproj|c:\\users\\sison\\source\\repos\\mohamedalaa-off\\innovision_e-commerce\\innovision.v0\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64AEFCD8-260C-41B1-B7E6-9D38F78B7A0D}|InnoVision.V0.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{64AEFCD8-260C-41B1-B7E6-9D38F78B7A0D}|InnoVision.V0.csproj|e:\\projects with vs\\innovision.v0\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64AEFCD8-260C-41B1-B7E6-9D38F78B7A0D}|InnoVision.V0.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{64AEFCD8-260C-41B1-B7E6-9D38F78B7A0D}|InnoVision.V0.csproj|c:\\users\\sison\\source\\repos\\mohamedalaa-off\\innovision_e-commerce\\innovision.v0\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{64AEFCD8-260C-41B1-B7E6-9D38F78B7A0D}|InnoVision.V0.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{64AEFCD8-260C-41B1-B7E6-9D38F78B7A0D}|InnoVision.V0.csproj|e:\\projects with vs\\innovision.v0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{64AEFCD8-260C-41B1-B7E6-9D38F78B7A0D}|InnoVision.V0.csproj|c:\\users\\sison\\source\\repos\\mohamedalaa-off\\innovision_e-commerce\\innovision.v0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{64AEFCD8-260C-41B1-B7E6-9D38F78B7A0D}|InnoVision.V0.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{64AEFCD8-260C-41B1-B7E6-9D38F78B7A0D}|InnoVision.V0.csproj|e:\\projects with vs\\innovision.v0\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64AEFCD8-260C-41B1-B7E6-9D38F78B7A0D}|InnoVision.V0.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64AEFCD8-260C-41B1-B7E6-9D38F78B7A0D}|InnoVision.V0.csproj|e:\\projects with vs\\innovision.v0\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{64AEFCD8-260C-41B1-B7E6-9D38F78B7A0D}|InnoVision.V0.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64AEFCD8-260C-41B1-B7E6-9D38F78B7A0D}|InnoVision.V0.csproj|e:\\projects with vs\\innovision.v0\\data\\shoppingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{64AEFCD8-260C-41B1-B7E6-9D38F78B7A0D}|InnoVision.V0.csproj|c:\\users\\sison\\source\\repos\\mohamedalaa-off\\innovision_e-commerce\\innovision.v0\\data\\shoppingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{64AEFCD8-260C-41B1-B7E6-9D38F78B7A0D}|InnoVision.V0.csproj|solutionrelative:data\\shoppingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{64AEFCD8-260C-41B1-B7E6-9D38F78B7A0D}|InnoVision.V0.csproj|e:\\projects with vs\\innovision.v0\\models\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{64AEFCD8-260C-41B1-B7E6-9D38F78B7A0D}|InnoVision.V0.csproj|c:\\users\\sison\\source\\repos\\mohamedalaa-off\\innovision_e-commerce\\innovision.v0\\models\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{64AEFCD8-260C-41B1-B7E6-9D38F78B7A0D}|InnoVision.V0.csproj|solutionrelative:models\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{64AEFCD8-260C-41B1-B7E6-9D38F78B7A0D}|InnoVision.V0.csproj|e:\\projects with vs\\innovision.v0\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{64AEFCD8-260C-41B1-B7E6-9D38F78B7A0D}|InnoVision.V0.csproj|c:\\users\\sison\\source\\repos\\mohamedalaa-off\\innovision_e-commerce\\innovision.v0\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64AEFCD8-260C-41B1-B7E6-9D38F78B7A0D}|InnoVision.V0.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64AEFCD8-260C-41B1-B7E6-9D38F78B7A0D}|InnoVision.V0.csproj|c:\\users\\sison\\source\\repos\\mohamedalaa-off\\innovision_e-commerce\\innovision.v0\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64AEFCD8-260C-41B1-B7E6-9D38F78B7A0D}|InnoVision.V0.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64AEFCD8-260C-41B1-B7E6-9D38F78B7A0D}|InnoVision.V0.csproj|c:\\users\\sison\\source\\repos\\mohamedalaa-off\\innovision_e-commerce\\innovision.v0\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{64AEFCD8-260C-41B1-B7E6-9D38F78B7A0D}|InnoVision.V0.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{64AEFCD8-260C-41B1-B7E6-9D38F78B7A0D}|InnoVision.V0.csproj|e:\\projects with vs\\innovision.v0\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{64AEFCD8-260C-41B1-B7E6-9D38F78B7A0D}|InnoVision.V0.csproj|c:\\users\\sison\\source\\repos\\mohamedalaa-off\\innovision_e-commerce\\innovision.v0\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{64AEFCD8-260C-41B1-B7E6-9D38F78B7A0D}|InnoVision.V0.csproj|solutionrelative:wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64AEFCD8-260C-41B1-B7E6-9D38F78B7A0D}|InnoVision.V0.csproj|c:\\users\\sison\\source\\repos\\mohamedalaa-off\\innovision_e-commerce\\innovision.v0\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64AEFCD8-260C-41B1-B7E6-9D38F78B7A0D}|InnoVision.V0.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64AEFCD8-260C-41B1-B7E6-9D38F78B7A0D}|InnoVision.V0.csproj|c:\\users\\sison\\source\\repos\\mohamedalaa-off\\innovision_e-commerce\\innovision.v0\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{64AEFCD8-260C-41B1-B7E6-9D38F78B7A0D}|InnoVision.V0.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64AEFCD8-260C-41B1-B7E6-9D38F78B7A0D}|InnoVision.V0.csproj|c:\\users\\sison\\source\\repos\\mohamedalaa-off\\innovision_e-commerce\\innovision.v0\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{64AEFCD8-260C-41B1-B7E6-9D38F78B7A0D}|InnoVision.V0.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64AEFCD8-260C-41B1-B7E6-9D38F78B7A0D}|InnoVision.V0.csproj|c:\\users\\sison\\source\\repos\\mohamedalaa-off\\innovision_e-commerce\\innovision.v0\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64AEFCD8-260C-41B1-B7E6-9D38F78B7A0D}|InnoVision.V0.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64AEFCD8-260C-41B1-B7E6-9D38F78B7A0D}|InnoVision.V0.csproj|c:\\users\\sison\\source\\repos\\mohamedalaa-off\\innovision_e-commerce\\innovision.v0\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64AEFCD8-260C-41B1-B7E6-9D38F78B7A0D}|InnoVision.V0.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64AEFCD8-260C-41B1-B7E6-9D38F78B7A0D}|InnoVision.V0.csproj|c:\\users\\sison\\source\\repos\\mohamedalaa-off\\innovision_e-commerce\\innovision.v0\\wwwroot\\css\\site.css||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{64AEFCD8-260C-41B1-B7E6-9D38F78B7A0D}|InnoVision.V0.csproj|solutionrelative:wwwroot\\css\\site.css||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64AEFCD8-260C-41B1-B7E6-9D38F78B7A0D}|InnoVision.V0.csproj|c:\\users\\sison\\source\\repos\\mohamedalaa-off\\innovision_e-commerce\\innovision.v0\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{64AEFCD8-260C-41B1-B7E6-9D38F78B7A0D}|InnoVision.V0.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,7 +78,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 303,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,50 +86,115 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "E:\\Projects With VS\\InnoVision.V0\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "E:\\Projects With VS\\InnoVision.V0\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-09T14:05:37.574Z",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\sison\\source\\repos\\mohamedalaa-off\\InnoVision_E-Commerce\\InnoVision.V0\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\sison\\source\\repos\\mohamedalaa-off\\InnoVision_E-Commerce\\InnoVision.V0\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T13:08:46.021Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "E:\\Projects With VS\\InnoVision.V0\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
-              "ToolTip": "E:\\Projects With VS\\InnoVision.V0\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Properties\\launchSettings.json",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-09T14:05:22.075Z",
+              "Title": "Store.cs",
+              "DocumentMoniker": "C:\\Users\\sison\\source\\repos\\mohamedalaa-off\\InnoVision_E-Commerce\\InnoVision.V0\\Models\\Store.cs",
+              "RelativeDocumentMoniker": "Models\\Store.cs",
+              "ToolTip": "C:\\Users\\sison\\source\\repos\\mohamedalaa-off\\InnoVision_E-Commerce\\InnoVision.V0\\Models\\Store.cs",
+              "RelativeToolTip": "Models\\Store.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T13:08:00.597Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "E:\\Projects With VS\\InnoVision.V0\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "E:\\Projects With VS\\InnoVision.V0\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "ShoppingContext.cs",
+              "DocumentMoniker": "C:\\Users\\sison\\source\\repos\\mohamedalaa-off\\InnoVision_E-Commerce\\InnoVision.V0\\Data\\ShoppingContext.cs",
+              "RelativeDocumentMoniker": "Data\\ShoppingContext.cs",
+              "ToolTip": "C:\\Users\\sison\\source\\repos\\mohamedalaa-off\\InnoVision_E-Commerce\\InnoVision.V0\\Data\\ShoppingContext.cs",
+              "RelativeToolTip": "Data\\ShoppingContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T13:24:02.385Z",
+              "WhenOpened": "2025-05-09T13:10:06.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sison\\source\\repos\\mohamedalaa-off\\InnoVision_E-Commerce\\InnoVision.V0\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\sison\\source\\repos\\mohamedalaa-off\\InnoVision_E-Commerce\\InnoVision.V0\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T13:07:32.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\sison\\source\\repos\\mohamedalaa-off\\InnoVision_E-Commerce\\InnoVision.V0\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\sison\\source\\repos\\mohamedalaa-off\\InnoVision_E-Commerce\\InnoVision.V0\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAAO8AAAAAAAAAAAAAAPoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-17T20:29:21.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\sison\\source\\repos\\mohamedalaa-off\\InnoVision_E-Commerce\\InnoVision.V0\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\sison\\source\\repos\\mohamedalaa-off\\InnoVision_E-Commerce\\InnoVision.V0\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-17T20:26:50.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sison\\source\\repos\\mohamedalaa-off\\InnoVision_E-Commerce\\InnoVision.V0\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sison\\source\\repos\\mohamedalaa-off\\InnoVision_E-Commerce\\InnoVision.V0\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "Views\\Products\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-09T13:14:41.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\sison\\source\\repos\\mohamedalaa-off\\InnoVision_E-Commerce\\InnoVision.V0\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\sison\\source\\repos\\mohamedalaa-off\\InnoVision_E-Commerce\\InnoVision.V0\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-17T21:01:29.586Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\Projects With VS\\InnoVision.V0\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sison\\source\\repos\\mohamedalaa-off\\InnoVision_E-Commerce\\InnoVision.V0\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "E:\\Projects With VS\\InnoVision.V0\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sison\\source\\repos\\mohamedalaa-off\\InnoVision_E-Commerce\\InnoVision.V0\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -110,81 +203,99 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\Projects With VS\\InnoVision.V0\\Views\\Products\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Products\\Index.cshtml",
-              "ToolTip": "E:\\Projects With VS\\InnoVision.V0\\Views\\Products\\Index.cshtml",
-              "RelativeToolTip": "Views\\Products\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-09T13:14:41.843Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "ProductsController.cs",
-              "DocumentMoniker": "E:\\Projects With VS\\InnoVision.V0\\Controllers\\ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\sison\\source\\repos\\mohamedalaa-off\\InnoVision_E-Commerce\\InnoVision.V0\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
-              "ToolTip": "E:\\Projects With VS\\InnoVision.V0\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\sison\\source\\repos\\mohamedalaa-off\\InnoVision_E-Commerce\\InnoVision.V0\\Controllers\\ProductsController.cs",
               "RelativeToolTip": "Controllers\\ProductsController.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAwBMAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAmwBQAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T13:13:52.692Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-09T13:13:52.692Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ShoppingContext.cs",
-              "DocumentMoniker": "E:\\Projects With VS\\InnoVision.V0\\Data\\ShoppingContext.cs",
-              "RelativeDocumentMoniker": "Data\\ShoppingContext.cs",
-              "ToolTip": "E:\\Projects With VS\\InnoVision.V0\\Data\\ShoppingContext.cs",
-              "RelativeToolTip": "Data\\ShoppingContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\sison\\source\\repos\\mohamedalaa-off\\InnoVision_E-Commerce\\InnoVision.V0\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\sison\\source\\repos\\mohamedalaa-off\\InnoVision_E-Commerce\\InnoVision.V0\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T13:10:06.017Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-09T13:24:02.385Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Product.cs",
-              "DocumentMoniker": "E:\\Projects With VS\\InnoVision.V0\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "Models\\Product.cs",
-              "ToolTip": "E:\\Projects With VS\\InnoVision.V0\\Models\\Product.cs",
-              "RelativeToolTip": "Models\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T13:08:46.021Z",
-              "EditorCaption": ""
+              "DocumentIndex": 9,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\sison\\source\\repos\\mohamedalaa-off\\InnoVision_E-Commerce\\InnoVision.V0\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\sison\\source\\repos\\mohamedalaa-off\\InnoVision_E-Commerce\\InnoVision.V0\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-05-18T21:20:05.731Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Store.cs",
-              "DocumentMoniker": "E:\\Projects With VS\\InnoVision.V0\\Models\\Store.cs",
-              "RelativeDocumentMoniker": "Models\\Store.cs",
-              "ToolTip": "E:\\Projects With VS\\InnoVision.V0\\Models\\Store.cs",
-              "RelativeToolTip": "Models\\Store.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T13:08:00.597Z",
-              "EditorCaption": ""
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sison\\source\\repos\\mohamedalaa-off\\InnoVision_E-Commerce\\InnoVision.V0\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\sison\\source\\repos\\mohamedalaa-off\\InnoVision_E-Commerce\\InnoVision.V0\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-09T14:05:37.574Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Projects With VS\\InnoVision.V0\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "E:\\Projects With VS\\InnoVision.V0\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T13:07:32.359Z",
-              "EditorCaption": ""
+              "DocumentIndex": 13,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\sison\\source\\repos\\mohamedalaa-off\\InnoVision_E-Commerce\\InnoVision.V0\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\sison\\source\\repos\\mohamedalaa-off\\InnoVision_E-Commerce\\InnoVision.V0\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-17T21:02:35.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\sison\\source\\repos\\mohamedalaa-off\\InnoVision_E-Commerce\\InnoVision.V0\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\sison\\source\\repos\\mohamedalaa-off\\InnoVision_E-Commerce\\InnoVision.V0\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-17T21:02:36.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\sison\\source\\repos\\mohamedalaa-off\\InnoVision_E-Commerce\\InnoVision.V0\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\sison\\source\\repos\\mohamedalaa-off\\InnoVision_E-Commerce\\InnoVision.V0\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAAMIAAAAAAAAAAAAQwJAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-17T20:56:29.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\sison\\source\\repos\\mohamedalaa-off\\InnoVision_E-Commerce\\InnoVision.V0\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\sison\\source\\repos\\mohamedalaa-off\\InnoVision_E-Commerce\\InnoVision.V0\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-09T14:05:22.075Z"
             }
           ]
         },

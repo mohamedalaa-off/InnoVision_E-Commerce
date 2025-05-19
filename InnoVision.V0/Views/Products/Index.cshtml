@@ -1,12 +1,12 @@
 ﻿@model IEnumerable<InnoVision.V0.Models.Product>
 
-<h2>Product List</h2>
+<h2 class="product-head">Product List</h2>
 <div class="row">
     @foreach (var item in Model)        
     {
-        <div class="col-md-4 mb-4">
+        <div class="col-lg-4 col-md-6 col-sm-12 mb-4">
             <div class="card">
-                <img src="@item.imageurl" class="card-img-top" alt="@item.name" />
+                <img src="@item.imageurl" class="card-img-top" alt="@item.name" width="300" height="300"/>
                 <div class="card-body">
                     <h5 class="card-title">@item.name</h5>
                     <p class="card-text">@item.description</p>

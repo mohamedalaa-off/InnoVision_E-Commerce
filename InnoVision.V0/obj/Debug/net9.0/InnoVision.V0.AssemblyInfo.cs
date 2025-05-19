@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("InnoVision.V0")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+726439fb0ee716895b734a21a6cfcd791c36d3c2")]
 [assembly: System.Reflection.AssemblyProductAttribute("InnoVision.V0")]
 [assembly: System.Reflection.AssemblyTitleAttribute("InnoVision.V0")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
